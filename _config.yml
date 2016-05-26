@@ -1,0 +1,28 @@
+name: Sprite
+favicon: null
+layout_spectrum: 0.7384908925741911
+typography_spectrum: 0.7968047892209142
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4838365847244859
+  lightness: 0.5962904146872461
+  saturation: 0.11485416837967932
+  rhythmicContrast: 0.961937407264486
+purpose: []
